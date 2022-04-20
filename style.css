@@ -1,0 +1,26 @@
+ .color {
+ border: 1px solid black;
+ display: inline;
+ padding: 50px;
+ margin-inline-start: 5px;
+ }
+
+ #color-palette {
+ margin-top: 100px;
+ }
+
+ #corUm {
+ background-color: #D0fdd8;  
+ }
+
+ #corDois {
+ background-color: #Fdfde9;
+ }
+
+ #corTres {
+ background-color: #Fdd0f5;  
+ }
+
+ #corQuatro {
+ background-color: #D8d0fd;  
+ }
