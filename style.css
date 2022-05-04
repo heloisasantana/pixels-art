@@ -9,6 +9,13 @@
  margin-top: 100px;
  }
 
+ #clear-board {
+ margin-top: 80px;
+ padding: 10px;
+ background-color: rgb(207, 206, 206);
+ border-radius: 10px;
+ }
+
  #corUm {
  background-color: black;  
  }
@@ -36,6 +43,6 @@
  }
 
  #pixel-board {
- margin-top: 300px;
+ margin-top: 50px;
  width: 550px;
  }

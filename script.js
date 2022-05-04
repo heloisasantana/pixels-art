@@ -29,3 +29,15 @@ event.target.style.backgroundColor = bgColorSelected;
 let todosOsPixels = document.getElementsByClassName("pixel");
 for (indice = 0; indice < todosOsPixels.length; indice += 1)
 {todosOsPixels[indice].addEventListener("click", addPintura)}
+
+// Requisito 9
+function clearPintura () {
+let pixelsParaLimpeza = document.getElementsByClassName("pixel");
+for (let i = 0; i < pixelsParaLimpeza.length; i += 1) {
+pixelsParaLimpeza[i].style.backgroundColor = 'white';
+pixelsParaLimpeza[i].classList.remove("pixel-selected")
+}
+}
+
+let botaoLimpar = document.querySelector("#clear-board")
+botaoLimpar.addEventListener("click", clearPintura)
