@@ -6,7 +6,7 @@ Desenvolvido por Heloísa Santana da Silva.
 
 <h3>Descrição:</h3>
 
-Esse projeto propôs o desenvolvimento de uma página HTML com quadros pixels que fossem preenchidos pela interação do usuário, que pode escolher cores e quadros a serem pintados, através de cores geradas automaticamente. Também é possível personalizar o tamanho da placa de quadro e limpá-los através de botões. 
+Esse projeto foi realizado durante o curso de Desenvolvimento Web da Trybe. Foi proposto desenvolvimento de uma página HTML com quadros pixels que fossem preenchidos pela interação do usuário, que pode escolher cores e quadros a serem pintados, através de cores geradas automaticamente. Também é possível personalizar o tamanho da placa de quadro e limpá-los através de botões. 
 
 <h3>Tecnologias usadas:</h3>
 <div style="display: inline_block">
